@@ -1,0 +1,30 @@
+{
+	"P": {
+		"menu": [["9", "9"]],
+		"default_ZDJHInitD": "9"
+    },
+
+	"D": {
+		"menu": [["温度", "temperature"],["湿度", "humidity"]],
+		"default_ZDJHInitD": "温度"
+	},
+	"I": {
+		"menu": [["A2", "A2"]],
+		"default_ZDJHInitI": "A2"
+	},
+	"A": {
+		"menu": [["5", "5"],["6", "6"]],
+		"default_ZDJHInitA": "5"
+	},
+	"B": {
+		"menu": [["5", "5"],["6", "6"]],
+		"default_ZDJHInitA": "6"
+	},
+	"Z": {
+		"menu": [["低电平", "LOW"],["高电平", "HIGH"]],
+		"default_ZDJHInitA": "低电平"
+    }
+
+
+
+}

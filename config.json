@@ -1,0 +1,35 @@
+{
+  "name": {
+    "zh-cn": "自动浇花套件",
+    "en": "ZDJH"
+  },
+  "description": {
+    "zh-cn": "能根据环境变化实现自动浇花的功能",
+    "en": "It can realize the function of automatic flower watering through the change of environment"
+  },
+  "auther": "Jeffzhang",
+  "email": "1036187367@qq.com",
+  "license": "MIT",
+  "isBoard": false,
+  "id": "ZDJH",
+  "platform": [
+    "win"
+  ],
+  "asset": {
+    "arduinoC": {
+      "dir": "arduinoC/",
+      "version": "0.0.1",
+      "board": [
+        "leonardo"
+      ],
+      "main": "main.ts",
+      "files": [
+        "_images/icon.svg",
+        "_locales/zh-cn.json",
+        "_menus/leonardo.json",
+        "main.ts",
+        "libraries/libraries.zip"
+      ]
+    }
+  }
+}

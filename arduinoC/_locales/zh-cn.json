@@ -1,0 +1,6 @@
+{
+    "ZDJH.ZDJHInitD|block": "自动浇花套件读取引脚[P]温湿度传感器[D]",
+    "ZDJH.ZDJHInitI|block": "自动浇花套件读取引脚[I]土壤湿度传感器",
+    "ZDJH.ZDJHInitA|block": "自动浇花套件初始化水泵引脚[A][B][Z]"
+
+}
